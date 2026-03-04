@@ -1,0 +1,52 @@
+walk	walk,walks,walking,walked	inflection	verb_regular
+play	play,plays,playing,played	inflection	verb_regular
+talk	talk,talks,talking,talked	inflection	verb_regular
+open	open,opens,opening,opened	inflection	verb_regular
+call	call,calls,calling,called	inflection	verb_regular
+
+study	study,studies,studying,studied	inflection	verb_y_to_i
+try	try,tries,trying,tried	inflection	verb_y_to_i
+carry	carry,carries,carrying,carried	inflection	verb_y_to_i
+
+stop	stop,stops,stopping,stopped	inflection	verb_double_consonant
+plan	plan,plans,planning,planned	inflection	verb_double_consonant
+occur	occur,occurs,occurring,occurred	inflection	verb_double_consonant
+
+move	move,moves,moving,moved	inflection	verb_drop_e
+love	love,loves,loving,loved	inflection	verb_drop_e
+create	create,creates,creating,created	inflection	verb_regular
+
+develop	develop,develops,developing,developed,development	mixed	verb_to_noun_ment
+argue	argue,argues,arguing,argued,argument	mixed	verb_to_noun_irregular
+decide	decide,decides,deciding,decided,decision	mixed	verb_to_noun_sion
+inform	inform,informs,informing,informed,information	mixed	verb_to_noun_ation
+
+act	act,acts,acting,acted,action	derivation	verb_to_noun_tion
+react	react,reacts,reacting,reacted,reaction	derivation	verb_to_noun_tion
+expand	expand,expands,expanding,expanded,expansion	derivation	verb_to_noun_sion
+
+happy	happy,happier,happiest,unhappy,happiness	mixed	adj_comp_super_neg_nom
+quick	quick,quicker,quickest,quickly	mixed	adj_comp_super_adv
+strong	strong,stronger,strongest,strength	mixed	adj_comp_super_nom
+long	long,longer,longest,length	mixed	adj_comp_super_nom
+
+possible	possible,impossible	derivation	prefix_negative
+legal	legal,illegal	derivation	prefix_negative
+moral	moral,immoral	derivation	prefix_negative
+regular	regular,irregular	derivation	prefix_negative
+
+appear	appear,appears,appearing,appeared,appearance	mixed	verb_to_noun_ance
+differ	differ,differs,differing,differed,difference	mixed	verb_to_noun_ence
+refer	refer,refers,referring,referred,reference	mixed	verb_to_noun_ence
+prefer	prefer,prefers,preferring,preferred,preference	mixed	verb_to_noun_ence
+
+nation	nation,nations,national,international	derivation	noun_to_adj_prefix
+music	music,musical,musician	derivation	noun_to_adj_agent
+science	science,scientific,scientist	derivation	noun_to_adj_agent
+economy	economy,economic,economics	derivation	noun_to_adj_domain
+
+read	read,reads,reading	irregular	verb_irregular_past_same_form
+write	write,writes,writing,written	irregular	verb_irregular_participle
+go	go,goes,going,went,gone	irregular	verb_irregular_strong
+see	see,sees,seeing,saw,seen	irregular	verb_irregular_strong
+take	take,takes,taking,took,taken	irregular	verb_irregular_strong
